@@ -1,4 +1,4 @@
-![Goose Byte Small Banner](https://raw.githubusercontent.com/GooseByteStudiosInc/.github/main/profile/article.png "Goose Byte")
+[![Goose Byte Small Banner](https://raw.githubusercontent.com/GooseByteStudiosInc/.github/main/profile/article.png "Goose Byte")](https://github.com/GooseByteStudiosInc/)
 
 - 👋 Hi, I’m @nathan-goosebyte aka Nathan Ross Powell
 - 👀 I’m interested in video games, modern C++ and data processing 
